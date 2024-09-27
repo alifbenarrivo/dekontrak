@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Selamat Datang Di DeKontrak</title>
+	<title>Selamat Datang Di DeKontrak ajg</title>
 
 	<style type="text/css">
 
